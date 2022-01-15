@@ -1,0 +1,42 @@
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Tabla Clientes</title>
+</head>
+<body>
+ <div class="ed-container">
+	<div class="ed-item">
+		<legend align="center"> Tabla Cliente</legend>
+	<table border="solid" align="center">
+		<caption></caption>
+		<thead><tr><th>ID</th><th>Nombre</th><th>Apellido</th><th>Edad</th><th>Fecha de nacimiento</th><th>CIC</th></tr></thead>
+		<tbody id="cuerpoTabla">
+		<tr><td class="identificador">1</td><td class="nombre">Cristian</td><td class="pellido">Galeano</td><td class="edad">21</td><td class="nacimiento">10/09/1998</td><td class="c.i.c">4895564</td></tr>
+
+		<tr><td class="identificador">2</td><td class="nombre">Jose</td><td class="pellido">Lopez</td><td class="edad">20</td><td class="nacimiento">18/01/1999</td><td class="c.i.c">1254457</td></tr>
+
+		<tr><td class="identificador">3</td><td class="nombre">Carlos</td><td class="pellido">Casco</td><td class="edad">32</td><td class="nacimiento">21/05/1982</td><td class="c.i.c">4512145</td></tr>
+
+		<tr><td class="identificador">4</td><td class="nombre">Josefina</td><td class="pellido">Rosales</td><td class="edad">28</td><td class="nacimiento">01/11/1985</td><td class="c.i.c">4223652</td></tr>
+
+
+		<tr><td class="identificador">5</td><td class="nombre">Maria</td><td class="pellido">Cardozo</td><td class="edad">25</td><td class="nacimiento">11/08/1995</td><td class="c.i.c">4854784</td></tr>
+
+		<tr><td class="identificador">6</td><td class="nombre">Roberto</td><td class="pellido">Frutos</td><td class="edad">45</td><td class="nacimiento">01/04/1962</td><td class="c.i.c">1257413</td></tr>
+
+		<tr><td class="identificador">7</td><td class="nombre">Francisca</td><td class="pellido">Gomez</td><td class="edad">42</td><td class="nacimiento">21/05/1972</td><td class="c.i.c">2659854</td></tr>
+
+		<tr><td class="identificador">8</td><td class="nombre">Mauro</td><td class="pellido">Ortiz</td><td class="edad">26</td><td class="nacimiento">23/12/1990</td><td class="c.i.c">1875652</td></tr>
+
+		<tr><td class="identificador">9</td><td class="nombre">Jesus</td><td class="pellido">Cabrera</td><td class="edad">23</td><td class="nacimiento">15/07/1997</td><td class="c.i.c">4587589</td></tr>
+
+		<tr><td class="identificador">10</td><td class="nombre">David</td><td class="pellido">Garcete</td><td class="edad">25</td><td class="nacimiento">23/12/1995</td><td class="c.i.c">2369587</td></tr>
+		</tbody>
+	</table>
+	
+</div>
+</div>
+</body>
+</html>
